@@ -11,4 +11,4 @@ Nesse repositório  contém HTML , CSS e JS
 
 ##  Contéudo
 
-Nesse repositório irá encontrar input , label, divs e buttons para junção desse forms incluindo responsividade ao forms para alguns tipos de aparelhos , não contém uma responsividade perfeita mas creio que está muito bom para o nivel de conhecimento que eu tenho ainda!!!
+Nesse repositório irá encontrar input , label, divs e buttons para junção desse forms incluindo responsividade ao forms para alguns tipos de aparelhos , não contém uma responsividade perfeita mas creio que está muito bom para o nivel de conhecimento que eu tenho ainda!!!!
